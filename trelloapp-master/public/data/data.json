@@ -1,0 +1,12 @@
+{
+  "boards": [],
+  "tasks": [],
+  "users": [
+    {
+      "email": "rhama@demo",
+      "password": "$2a$10$tR5YU96dxJ88bL/PE8/3feykmA.ey9B1BDezVOxK0DeLXtXlum4ZC",
+      "id": 1
+    }
+  ],
+  "lists": []
+}
